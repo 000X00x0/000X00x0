@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola a todos! 👋<br>Soy un apasionado programador joven, proveniente de Colombia. Mi viaje en el mundo de la programación comenzó como un gran interés y ha evolucionado hasta convertirse en una pasión ardiente que me impulsa a aprender y crecer constantemente.<br>Siempre he creído que cada línea de código es una oportunidad para crear algo grandioso y eso es lo que persigo en cada proyecto en el que me involucro. Mi energía incansable y mi curiosidad insaciable me llevan a explorar nuevas tecnologías y afrontar desafíos con entusiasmo.<br>A pesar de mi juventud, he descubierto que la determinación y las ganas de aprender no tienen límites. Me esfuerzo por superar obstáculos y buscar soluciones innovadoras en cada línea de código que escribo. Mi objetivo es no solo destacar, sino aprender de cada código que construyo y aportar una nueva forma o visión para abarcar un problema.<br>Si estás buscando a alguien que combine entusiasmo, determinación y un deseo genuino de sobresalir, entonces no busques más. Estoy listo para sumergirme en desafíos emocionantes, aprender con dedicación y aportar una gran actitud a tu equipo.<br><br>¡Construyamos un mejor futuro, Saludos!<br><br>
+¡Hola a todos!
 
 
 ## 🌐 Socials:
